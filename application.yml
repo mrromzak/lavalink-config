@@ -14,7 +14,7 @@ plugins:
       - MUSIC
       - ANDROID_VR
       - WEB
-      - TVHTML5EMBEDDED
+      - TV_EMBEDDED
     oauth:
       enabled: true
       shouldRefresh: false
