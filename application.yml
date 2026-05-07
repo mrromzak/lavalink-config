@@ -16,7 +16,9 @@ plugins:
       - WEB
       - TVHTML5EMBEDDED
     oauth:
-      enabled: false
+      enabled: true
+      shouldRefresh: false
+      refreshToken: ""
 
 lavalink:
   plugins:
